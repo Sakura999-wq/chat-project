@@ -7,11 +7,11 @@
   运行方式：
   在 /chat-project/bin下：
   启动服务器：
-  ./ChatServer 127.0.0.1 6000
-  ./ChatServer 127.0.0.1 6002
+    ./ChatServer 127.0.0.1 6000
+    ./ChatServer 127.0.0.1 6002
   启动客户端：
-  ./ChatClient 127.0.0.1 8000
-  ./ChatClient 127.0.0.1 8000
-  ...
+    ./ChatClient 127.0.0.1 8000
+    ./ChatClient 127.0.0.1 8000
+    ...
 
   根据终端所显示的提示，进行聊天
